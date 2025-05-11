@@ -1,17 +1,17 @@
 # helen.github.io
 
-##Projects
-###Project 1
+## Projects
+### Project 1
 - Description
 - Links
 
-###Project 2
+### Project 2
 - Description
 - Link
 
-#Education
+# Education
 - University
 
-#Work History
+# Work History
 - Workplace 1
 - Workplace 2
